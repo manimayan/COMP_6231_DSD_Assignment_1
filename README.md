@@ -11,7 +11,9 @@ Specifically, do the following:
 
 ➲ Write the Java RMI interface definition for the CenterServer with the specified 
 operations. 
+
 ➲ Implement the CenterServer. 
+
 ➲ Design and implement a ManagerClient, which invokes the center’s server system to test the correct operation of the DCMS invoking multiple CenterServer (each of 
 the servers initially has a few records) and multiple managers.
  

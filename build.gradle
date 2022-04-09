@@ -1,0 +1,23 @@
+
+plugins {
+    id 'java'
+    id 'eclipse'
+}
+
+group = 'dsd.cms'
+
+repositories {
+    // Use jcenter for resolving dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+   testImplementation 'junit:junit:4.12'
+   	compileOnly 'org.projectlombok:lombok:1.18.16'
+	annotationProcessor 'org.projectlombok:lombok:1.18.16'
+	
+	testCompileOnly 'org.projectlombok:lombok:1.18.16'
+	testAnnotationProcessor 'org.projectlombok:lombok:1.18.16'
+}

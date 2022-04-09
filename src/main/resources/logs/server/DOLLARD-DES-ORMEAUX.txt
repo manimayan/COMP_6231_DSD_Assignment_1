@@ -1,0 +1,9 @@
+
+2021-06-13T02:35:10.109899800 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-06-13T02:35:10.135919400 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-06-13T02:37:34.928275 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Jessica, Last Name : Anderson, Courses Registered : Java,Python, Status : Active, Status Date : 2021-12-02)
+2021-06-13T02:37:34.945286400 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Response <> Log: Student record SR10012 created in Dollard-des-Ormeaux location with name : Jessica Anderson
+2021-06-13T02:37:40.660320800 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-06-13T02:37:40.731371600 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Response <> Log: MTL : 9, LVL : 6, DDO : 9
+2021-06-13T02:37:44.757120300 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-06-13T02:37:44.837176800 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Response <> Log: MTL : 9, LVL : 6, DDO : 9

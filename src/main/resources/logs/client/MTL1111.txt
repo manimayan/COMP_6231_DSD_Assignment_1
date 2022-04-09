@@ -1,0 +1,107 @@
+
+2021-06-13T02:10:58.060491800 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T02:10:58.075495700 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T02:11:04.495688500 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-06-13T02:11:07.304160900 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10000 created in montreal location with name : Kevin Peterson
+2021-06-13T02:11:13.057020300 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T02:11:13.074025500 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T02:11:19.594780100 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: James, Anderson, Java|Python|Scala, 1, 2021-12-22
+2021-06-13T02:11:21.024140400 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Student record SR10011 created in Montreal location with name : James Anderson
+2021-06-13T02:11:29.302868500 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T02:11:29.321886700 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T02:11:59.946570600 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10000, PHONE, 9023099999
+2021-06-13T02:12:01.735722200 <> UserName: MTL1111 <> Phase: editRecord <> Log: Edit operation performed successfully.
+Updated Record: Id:TR10000, FN:Kevin, LN:Peterson, Address:23,Lords street,London-987, Phone:9023099999, Specialization:Java,Python,Scala, Location:MTL
+2021-06-13T02:12:14.851186300 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T02:12:14.876232500 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T02:12:20.000737200 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10001, PHONE, 9023099999
+2021-06-13T02:12:21.608541600 <> UserName: MTL1111 <> Phase: editRecord <> Log: Teacher Record with given id : TR10001 was not found.
+2021-06-13T02:12:27.931648 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-06-13T02:12:27.977689600 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-06-13T02:12:28.176849700 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL : 9, LVL : 6, DDO : 8
+2021-06-13T02:12:33.821572800 <> UserName: MTL1111 <> Phase: choosing system options <> Log: C
+2021-06-13T02:35:27.078473700 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T02:35:27.097491100 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T02:35:40.459951300 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Xyz, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-06-13T02:35:42.198634500 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10000 created in montreal location with name : Kevin Xyz
+2021-06-13T02:35:45.925610100 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T02:35:45.945651700 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T02:36:06.213348900 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: Jamie, Anderson, Java|Python|Scala, 1, 2021-12-20
+2021-06-13T02:36:08.311320400 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Student record SR10011 created in Montreal location with name : Jamie Anderson
+2021-06-13T02:36:11.950717900 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-06-13T02:36:11.971753500 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-06-13T02:36:12.094812200 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL : 9, LVL : 6, DDO : 8
+2021-06-13T02:36:15.893072700 <> UserName: MTL1111 <> Phase: choosing system options <> Log: C
+2021-06-13T04:42:25.861400900 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T04:42:25.906428800 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T04:42:59.891911900 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL, 985, 548
+2021-06-13T04:43:00.017007800 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Phone is invalid
+2021-06-13T04:43:00.066034400 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Location is invalid
+2021-06-13T04:44:45.322811400 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T04:44:45.346829600 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T04:45:01.071819900 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson123, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-06-13T04:45:01.182897300 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Last Name is invalid
+2021-06-13T04:47:34.587475800 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T04:47:34.617496600 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T04:47:41.314676900 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: sa
+2021-06-13T04:47:41.340724 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Invalid Student Record input. Please match the format mentioned above.
+2021-06-13T04:47:44.522944500 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T04:47:44.561972300 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T04:48:09.466599500 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 90231abcde, Java|Python|Scala, MTL
+2021-06-13T04:48:09.494625 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Phone is invalid
+2021-06-13T04:52:01.589295800 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T04:52:01.620313800 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T04:52:18.816181700 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, TRO
+2021-06-13T04:52:18.843200600 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Location is invalid
+2021-06-13T04:53:42.327891500 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T04:53:42.350909600 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T04:54:16.150772400 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Andrea, Pearson, 23,Lords street,London-987, 9023123445, Java|Python, MTL
+2021-06-13T04:54:19.006817200 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10001 created in montreal location with name : Andrea Pearson
+2021-06-13T04:56:48.041488700 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T04:56:48.071509100 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T04:57:01.868112100 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: James1234, Anderson, Java|Python|Scala, 1, 2021-12-22
+2021-06-13T04:57:01.908139100 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: First Name is invalid
+2021-06-13T04:59:51.732392100 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T04:59:51.761412400 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T05:00:41.801333100 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: Josh, Peterson, Java|Python, 22, 2021-12-22
+2021-06-13T05:00:41.832360500 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Status is invalid
+2021-06-13T05:02:26.467149200 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T05:02:26.495172300 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T05:02:56.128396 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: Josh, Peterson, Java|Python, 1, 2021-12-2222
+2021-06-13T05:02:56.161418700 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Status Date is invalid
+2021-06-13T05:04:45.524262800 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T05:04:45.553282600 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T05:05:02.914432800 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Entered Input: Josh, Peterson, Java|Python, 1, 2021-12-31
+2021-06-13T05:05:05.776041800 <> UserName: MTL1111 <> Phase: createStudentRecord <> Log: Student record SR10013 created in Montreal location with name : Josh Peterson
+2021-06-13T05:06:56.844486800 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:06:56.873509500 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:07:31.156716700 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR12121, PHONE, 9023412231
+2021-06-13T05:07:34.895730 <> UserName: MTL1111 <> Phase: editRecord <> Log: Teacher Record with given id : TR12121 was not found.
+2021-06-13T05:09:49.841477500 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:09:49.869496900 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:10:33.821865700 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: SR10013, FIRSTNAME, ABC
+2021-06-13T05:10:33.851884800 <> UserName: MTL1111 <> Phase: editRecord <> Log: Field Name is incorrect
+2021-06-13T05:12:02.845020500 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:12:02.872044300 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:12:42.228691200 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10001, LOCATION, VNC
+2021-06-13T05:12:51.644046600 <> UserName: MTL1111 <> Phase: editRecord <> Log: Edit operation performed successfully.
+Updated Record: Id:TR10001, FN:Andrea, LN:Pearson, Address:23,Lords street,London-987, Phone:9023123445, Specialization:Java,Python, Location:INVALIDLOCATION
+2021-06-13T05:18:25.555714300 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:18:25.584743200 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:18:27.697005 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10001, LOCATION, VNC
+2021-06-13T05:21:40.042505200 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:21:40.072527200 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:21:56.028503500 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10001, FIRST NAME, VNC
+2021-06-13T05:22:23.637711 <> UserName: MTL1111 <> Phase: editRecord <> Log: Field Name is incorrect
+2021-06-13T05:24:31.868667500 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:24:31.897687400 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:24:34.467757200 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10001, LOCATION, VNC
+2021-06-13T05:24:34.490805700 <> UserName: MTL1111 <> Phase: editRecord <> Log: Value is in incorrect
+2021-06-13T05:26:23.565983700 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 3
+2021-06-13T05:26:23.596006500 <> UserName: MTL1111 <> Phase: editRecord <> Log: selected Edit Record
+2021-06-13T05:26:31.711701700 <> UserName: MTL1111 <> Phase: editRecord <> Log: Entered Input: TR10001, LOCATION, DDO
+2021-06-13T05:26:32.855511200 <> UserName: MTL1111 <> Phase: editRecord <> Log: Edit operation performed successfully.
+Updated Record: Id:TR10001, FN:Andrea, LN:Pearson, Address:23,Lords street,London-987, Phone:9023123445, Specialization:Java,Python, Location:DDO
+2021-06-13T05:27:47.097575 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-06-13T05:27:47.138609100 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-06-13T05:27:47.301719100 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL : 11, LVL : 6, DDO : 9

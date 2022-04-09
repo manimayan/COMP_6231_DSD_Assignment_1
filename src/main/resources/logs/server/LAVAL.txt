@@ -1,0 +1,8 @@
+
+2021-06-13T02:35:10.116910700 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-06-13T02:35:10.148927600 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-06-13T02:36:44.088601100 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : TR99991, Edit Field : PHONE, New Value : 9023412231
+2021-06-13T02:36:44.106613400 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: Edit operation performed successfully.
+Updated Record: Id:TR99991, FN:LvlFirst1, LN:A1, Address:10,Lords street,London-987, Phone:9023412231, Specialization:Java,Python, Location:DDO
+2021-06-13T02:37:06.948458200 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-06-13T02:37:07.049708400 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: MTL : 9, LVL : 6, DDO : 8

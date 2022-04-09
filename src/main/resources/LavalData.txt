@@ -1,0 +1,6 @@
+TR99991,LvlFirst1,A1,10,Lords street,London-987,9999999999,Java|Python,DDO
+TR99992,LvlFirst2,A2,11,Lords street,London-987,9999999991,Python,MTL
+TR99993,LvlFirst3,B1,12,Lords street,London-987,9999999993,Javascript|Java|Python,MTL
+SR99991,LvlFirstStu1,C1,ML|Java,Active,2021-12-20
+SR99992,LvlFirstStu2,C2,ML|AI,InActive,2021-12-21
+SR99993,LvlFirstStu3,A10,Algos,Active,2021-12-22

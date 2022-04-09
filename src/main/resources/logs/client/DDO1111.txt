@@ -1,0 +1,18 @@
+
+2021-06-13T02:19:26.455697600 <> UserName: DDO1111 <> Phase: choosing system options <> Log: 1
+2021-06-13T02:19:26.469707900 <> UserName: DDO1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-06-13T02:19:40.358488500 <> UserName: DDO1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Magson, 23,Lords street,London-987, 9023123445, Java, MTL
+2021-06-13T02:19:42.838876500 <> UserName: DDO1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10002 created in Dollard-des-Ormeaux location with name : Kevin Magson
+2021-06-13T02:19:47.883312400 <> UserName: DDO1111 <> Phase: choosing system options <> Log: 4
+2021-06-13T02:19:47.902331300 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-06-13T02:19:48.005865 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: MTL : 9, LVL : 8, DDO : 9
+2021-06-13T02:37:17.250014700 <> UserName: DDO1111 <> Phase: choosing system options <> Log: 2
+2021-06-13T02:37:17.266025600 <> UserName: DDO1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-06-13T02:37:33.321999900 <> UserName: DDO1111 <> Phase: createStudentRecord <> Log: Entered Input: Jessica, Anderson, Java|Python, 1, 2021-12-02
+2021-06-13T02:37:34.967302300 <> UserName: DDO1111 <> Phase: createStudentRecord <> Log: Student record SR10012 created in Dollard-des-Ormeaux location with name : Jessica Anderson
+2021-06-13T02:37:40.614297400 <> UserName: DDO1111 <> Phase: choosing system options <> Log: 4
+2021-06-13T02:37:40.633302 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-06-13T02:37:40.752392800 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: MTL : 9, LVL : 6, DDO : 9
+2021-06-13T02:37:44.699079700 <> UserName: DDO1111 <> Phase: choosing system options <> Log: 4
+2021-06-13T02:37:44.723096700 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-06-13T02:37:44.865201900 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: MTL : 9, LVL : 6, DDO : 9

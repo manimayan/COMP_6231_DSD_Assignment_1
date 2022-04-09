@@ -1,0 +1,23 @@
+
+2021-06-13T02:35:10.102895900 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-06-13T02:35:10.132916700 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-06-13T02:35:42.146605900 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Xyz, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-06-13T02:35:42.167642300 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10000 created in montreal location with name : Kevin Xyz
+2021-06-13T02:36:08.269283700 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Jamie, Last Name : Anderson, Courses Registered : Java,Python,Scala, Status : Active, Status Date : 2021-12-20)
+2021-06-13T02:36:08.289297 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Student record SR10011 created in Montreal location with name : Jamie Anderson
+2021-06-13T02:36:11.996744200 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-06-13T02:36:12.072796700 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: MTL : 9, LVL : 6, DDO : 8
+2021-06-13T04:54:18.953759500 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Andrea, Last Name : Pearson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python, Location : MTL)
+2021-06-13T04:54:18.971765200 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10001 created in montreal location with name : Andrea Pearson
+2021-06-13T05:05:05.649952700 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Josh, Last Name : Peterson, Courses Registered : Java,Python, Status : Active, Status Date : 2021-12-31)
+2021-06-13T05:05:05.747019400 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Student record SR10013 created in Montreal location with name : Josh Peterson
+2021-06-13T05:07:34.832686100 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : TR12121, Edit Field : PHONE, New Value : 9023412231
+2021-06-13T05:07:34.856704200 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher Record with given id : TR12121 was not found.
+2021-06-13T05:12:51.600005700 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : TR10001, Edit Field : LOCATION, New Value : INVALIDLOCATION
+2021-06-13T05:12:51.621026900 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Edit operation performed successfully.
+Updated Record: Id:TR10001, FN:Andrea, LN:Pearson, Address:23,Lords street,London-987, Phone:9023123445, Specialization:Java,Python, Location:INVALIDLOCATION
+2021-06-13T05:26:32.806478400 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : TR10001, Edit Field : LOCATION, New Value : DDO
+2021-06-13T05:26:32.827483600 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Edit operation performed successfully.
+Updated Record: Id:TR10001, FN:Andrea, LN:Pearson, Address:23,Lords street,London-987, Phone:9023123445, Specialization:Java,Python, Location:DDO
+2021-06-13T05:27:47.189640400 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-06-13T05:27:47.278703100 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: MTL : 11, LVL : 6, DDO : 9
